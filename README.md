@@ -1,4 +1,4 @@
-# Data-Science-Projects
+# Data Science Projects
 This is a collection of notebooks outlining my take on extracting useful insights from data dealing with a variety of different subjects.
 The list of different projects(so far) are: 
 
