@@ -6,6 +6,7 @@ The list of different projects(so far) are:
  
  - [IMDb Reviews Sentiment Analysis](https://nbviewer.jupyter.org/github/tazwar22/Data-Science-Projects/blob/master/IMDb%20Reviews%20Sentiment%20Analysis/IMDb%20Reviews%20Sentiment%20Analysis.ipynb)
 
+-[Customer Segmentation with KMeans Clustering](https://nbviewer.jupyter.org/github/tazwar22/Data-Science-Projects/blob/master/Customer%20Segmentation%20with%20KMeans/Customer%20Segmentation%20with%20KMeans%20Clustering.ipynb)
 
 
 
